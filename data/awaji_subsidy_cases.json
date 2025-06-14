@@ -1,0 +1,959 @@
+{
+  "title": "淡路島事業再構築補助金採択事例一覧",
+  "description": "淡路島（洲本市・淡路市・南あわじ市）における事業再構築補助金の採択事例データ",
+  "source": "経済産業省 中小企業庁公式発表資料",
+  "last_updated": "2024年11月（第12回公募まで）",
+  "total_cases": 92,
+  "cases": [
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "株式会社浜田屋本店",
+      "city": "洲本市",
+      "industry": "食品製造",
+      "business_description": "高濃度糖度調味料製造技術を活かし、自社でパスタソースなどソース類の製造販売に新規参入。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "理容うえたけ",
+      "city": "洲本市",
+      "industry": "理美容業",
+      "business_description": "顧客ニーズに応え、従来の理髪店からエステ業へ業態転換。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "株式会社LIB",
+      "city": "洲本市",
+      "industry": "パン製造・小売",
+      "business_description": "観光客向け飲食店から転換し、地元客が毎日楽しめるパンを店舗販売＆移動販売で届ける新事業。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "バー エトワール",
+      "city": "洲本市",
+      "industry": "宿泊・飲食複合",
+      "business_description": "宿泊施設・セントラルキッチン・焙煎所・飲食店が一体となった複合施設を運営する新事業。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "有限会社いせや写真館",
+      "city": "洲本市",
+      "industry": "写真サービス",
+      "business_description": "培った「思い出作り」技術で、ライブ配信による**ニューノーマルな結婚式（ライブウェディング）**事業に挑戦。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "株式会社たかべホームズ",
+      "city": "洲本市",
+      "industry": "不動産業",
+      "business_description": "移住体験用シェアハウス及び移住者向け住宅事業を開始し、新分野を開拓。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "株式会社観光ホテル淡州",
+      "city": "洲本市",
+      "industry": "宿泊業",
+      "business_description": "リゾートワーケーションホテルへの大胆な事業再構築（施設改装・サービス転換）。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "有限会社スリークラフト",
+      "city": "洲本市",
+      "industry": "飲食業",
+      "business_description": "初期投資不要で夢を叶えるクラウドキッチン事業を開始し、新しい飲食店モデルを淡路島で展開。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "株式会社はやしお",
+      "city": "淡路市",
+      "industry": "食品加工",
+      "business_description": "地元の農水産物を結集し、惣菜など農水産物加工食品製造業への事業展開。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "フードカフェ リラックス",
+      "city": "淡路市",
+      "industry": "飲食・娯楽複合",
+      "business_description": "大人向けカフェ併設のインドアテニス場を新設し、新業態のレジャー施設を運営。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "株式会社亙",
+      "city": "淡路市",
+      "industry": "宿泊業",
+      "business_description": "「御食国・淡路島」の海産物と職人技を活かし、地域と共創する高級貸別荘事業に乗り出し。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "石岡不動産",
+      "city": "淡路市",
+      "industry": "不動産業",
+      "business_description": "地域活性に寄与する素泊まり宿（簡易宿所）を開設。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "株式会社パソコン森田",
+      "city": "淡路市",
+      "industry": "ITサービス",
+      "business_description": "旅館業に新分野展開（PC教室運営から宿泊事業への進出）。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "株式会社藤澤石油店",
+      "city": "淡路市",
+      "industry": "サービス業",
+      "business_description": "塩害で外干しできない地域ニーズに応えるコインランドリー事業を新規開業。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "株式会社PMCインターナショナル",
+      "city": "淡路市",
+      "industry": "物流サービス",
+      "business_description": "「より早く正確に」を掲げ、自社独自のワンストップ物流サービス体制を構築。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "株式会社森水産",
+      "city": "淡路市",
+      "industry": "卸売業（釣具）",
+      "business_description": "釣り客で賑わう淡路島で釣具店とオンラインコミュニティ事業を運営。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "AWAJI藍LAND project",
+      "city": "淡路市",
+      "industry": "観光体験",
+      "business_description": "藍染製品販売から一歩進め、藍の栽培～染め体験事業に転換。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "竹原物産株式会社",
+      "city": "南あわじ市",
+      "industry": "食品加工",
+      "business_description": "廃棄されていた玉ねぎの皮むき加工事業に新規進出し、自社と地域の課題を解決。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "株式会社きとらフードサービス",
+      "city": "南あわじ市",
+      "industry": "飲食業",
+      "business_description": "遊休地を活用したテイクアウト専門店を開業。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "株式会社ダイヨー",
+      "city": "南あわじ市",
+      "industry": "建設業/ICT",
+      "business_description": "測量技術とデジタル技術を活かし、土工事のICT施工分野へ新規展開。",
+      "application_category": "不明",
+      "notes": [
+        "DX・デジタル化"
+      ]
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "西部興産株式会社",
+      "city": "南あわじ市",
+      "industry": "観光業",
+      "business_description": "淡路島の新鮮野菜を「育てて・収穫して・食べる」グリーンツーリズム特化型リゾート施設を提供。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "株式会社スピラル",
+      "city": "南あわじ市",
+      "industry": "食品加工",
+      "business_description": "スティック充填包装サービスの提供と、淡路島玉ねぎスープ等の開発・製造・販売。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "株式会社バンハイム",
+      "city": "南あわじ市",
+      "industry": "IT・住宅",
+      "business_description": "スマートハウス/スマートホームIoTシステムの販売事業に新規参入。",
+      "application_category": "不明",
+      "notes": [
+        "DX・デジタル化"
+      ]
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "電灯舎",
+      "city": "南あわじ市",
+      "industry": "宿泊業",
+      "business_description": "姿勢・呼吸・精神を整えアイデア創出を促す**1人宿（リトリート施設）**を開設。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "株式会社山椒",
+      "city": "南あわじ市",
+      "industry": "食品製造直売",
+      "business_description": "地元名産を活かした小規模食品工場兼直売所を新設する計画。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 5,
+      "announcement_date": "2022年3月",
+      "company_name": "有限会社まるひろ青果",
+      "city": "南あわじ市",
+      "industry": "廃棄物処理",
+      "business_description": "野菜残渣処理事業に乗り出し、売上増と地域課題の解決を図る。",
+      "application_category": "不明",
+      "notes": [
+        "地域課題解決型"
+      ]
+    },
+    {
+      "round": 6,
+      "announcement_date": "2022年9月",
+      "company_name": "海幸丸水産",
+      "city": "洲本市",
+      "industry": "水産業",
+      "business_description": "「由良ブランド」の鮮魚を急速冷凍し、EC販売する新事業で収益柱を構築。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 6,
+      "announcement_date": "2022年9月",
+      "company_name": "スリーエムホーム兵庫株式会社",
+      "city": "洲本市",
+      "industry": "建設業",
+      "business_description": "淡路島トップクラスの施工実績を持つ住宅会社が、高気密高断熱住宅の施工販売を新たに開始。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 6,
+      "announcement_date": "2022年9月",
+      "company_name": "接骨鍼灸院たいよう堂",
+      "city": "洲本市",
+      "industry": "医療/福祉",
+      "business_description": "障がい児童を受け入れる放課後等デイサービス施設を新設し、福祉分野に進出。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 6,
+      "announcement_date": "2022年9月",
+      "company_name": "株式会社新高テック",
+      "city": "洲本市",
+      "industry": "製造業（金属加工）",
+      "business_description": "アルミ加工の内製化と先端デジタル技術導入により、生産プロセス全体を最適化する計画。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 6,
+      "announcement_date": "2022年9月",
+      "company_name": "籔淵建設株式会社",
+      "city": "淡路市",
+      "industry": "建設業",
+      "business_description": "バケット式回転ふるい機付きICT建機を導入し、残土処分場の有効活用事業に乗り出す。",
+      "application_category": "不明",
+      "notes": [
+        "DX・デジタル化"
+      ]
+    },
+    {
+      "round": 6,
+      "announcement_date": "2022年9月",
+      "company_name": "星の果実園",
+      "city": "淡路市",
+      "industry": "観光農園",
+      "business_description": "淡路産苺を中心に、収穫から菓子作りまで楽しめる体験型観光農園施設を新設。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 6,
+      "announcement_date": "2022年9月",
+      "company_name": "株式会社淡路島ほっこりファーム",
+      "city": "淡路市",
+      "industry": "観光業",
+      "business_description": "家族で自然と対話できるファミリー向けキャンプ場を開業。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 6,
+      "announcement_date": "2022年9月",
+      "company_name": "アーバンクリエイト株式会社",
+      "city": "南あわじ市",
+      "industry": "建設コンサル",
+      "business_description": "測量業の経験を活かし、土木工事業へ新分野展開。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 6,
+      "announcement_date": "2022年9月",
+      "company_name": "全淡建設株式会社",
+      "city": "南あわじ市",
+      "industry": "建設業",
+      "business_description": "出張破砕サービスを開始し、建設廃材リサイクル事業に業態転換。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 6,
+      "announcement_date": "2022年9月",
+      "company_name": "YGN商事株式会社",
+      "city": "南あわじ市",
+      "industry": "不動産業",
+      "business_description": "不動産賃貸業から、淡路島での貸別荘事業に参入。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 6,
+      "announcement_date": "2022年9月",
+      "company_name": "株式会社ライフコア",
+      "city": "南あわじ市",
+      "industry": "情報サービス業",
+      "business_description": "保険代理店向けの『保険DX』システム販売事業を展開し、業界イノベーションを図る。",
+      "application_category": "不明",
+      "notes": [
+        "DX・デジタル化"
+      ]
+    },
+    {
+      "round": 6,
+      "announcement_date": "2022年9月",
+      "company_name": "小林水産",
+      "city": "南あわじ市",
+      "industry": "食品加工",
+      "business_description": "寿司店が新名物の生シラス醤油漬けを開発し、新販路開拓に挑戦。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 6,
+      "announcement_date": "2022年9月",
+      "company_name": "菊川建材株式会社",
+      "city": "南あわじ市",
+      "industry": "建材製造",
+      "business_description": "有機培養土の製造で家庭菜園・ガーデニング市場に進出。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 6,
+      "announcement_date": "2022年9月",
+      "company_name": "株式会社カタドル",
+      "city": "南あわじ市",
+      "industry": "食品製造/小売",
+      "business_description": "高齢者向けの革新的な高級食パン事業を開始。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "合同会社JOY CIRCUS",
+      "city": "淡路市",
+      "industry": "飲食業",
+      "business_description": "時代のニーズに合わせ、空き家を無添加惣菜店に改装する町づくりプロジェクト。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "関海事工業所",
+      "city": "淡路市",
+      "industry": "建設業（土木）",
+      "business_description": "海底ケーブル敷設工事業者が、洋上風力発電向け海底ケーブル工事に進出。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "一般社団法人大地が教えてくれたこと",
+      "city": "淡路市",
+      "industry": "体験型観光",
+      "business_description": "自然豊かな畑の中にレンタルスペースを整備し、農泊・交流体験を提供。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "株式会社長尾工業",
+      "city": "淡路市",
+      "industry": "サービス業（キャンプ）",
+      "business_description": "ペットと景観を楽しめる露天風呂付きキャンプ場を開設。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "フレアデザイン",
+      "city": "淡路市） & 有限会社うづ志ほ名産店（洲本市",
+      "industry": "（連携体）小売業",
+      "business_description": "**「淡路島の良いモノ発掘」**をテーマに、デザイナー監修のセレクトショップ事業に共同挑戦。※2社連携採択案件。",
+      "application_category": "不明",
+      "notes": [
+        "連携採択案件"
+      ]
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "株式会社金岡光輝園",
+      "city": "淡路市",
+      "industry": "農業/造園",
+      "business_description": "最新ドローンと草刈機を導入し、伐採・草刈事業の生産性を飛躍的に向上。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "株式会社淡味",
+      "city": "淡路市",
+      "industry": "食品流通",
+      "business_description": "産地と食卓を繋ぐ生鮮サプライチェーンの核となるハブ型直売ショップを展開。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "食堂カフェ バイオリン",
+      "city": "淡路市",
+      "industry": "宿泊業",
+      "business_description": "働く女性の癒しニーズに応えるリトリート施設を新設し、飲食業から宿泊業へ業態転換。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "株式会社島村",
+      "city": "淡路市",
+      "industry": "食品製造",
+      "business_description": "地元牛乳を使ったアイスクリームの商品化・販売に挑戦。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "有限会社都冷蔵",
+      "city": "洲本市",
+      "industry": "食品加工",
+      "business_description": "高糖度調味技術を活かしパスタソース等のベースを製造・販売（第4回落選案件の再挑戦採択例）。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "株式会社スマイルあわじ",
+      "city": "洲本市",
+      "industry": "飲食業",
+      "business_description": "古民家を改装した淡路島食材のフィッシュバーガー専門店を開業。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "ペンション ラ・メール",
+      "city": "洲本市",
+      "industry": "宿泊業",
+      "business_description": "料理民宿の強みを活かし、併設カフェ事業に乗り出す再構築計画。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "有限会社うづ志ほ名産店",
+      "city": "洲本市",
+      "industry": "食品・土産販売",
+      "business_description": "※前述のフレアデザインとの連携採択案件。",
+      "application_category": "不明",
+      "notes": [
+        "連携採択案件"
+      ]
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "株式会社マルショー",
+      "city": "洲本市",
+      "industry": "美容業",
+      "business_description": "淡路島初の複合型美容サロンを新設し、新分野展開。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "山口鮮魚",
+      "city": "洲本市",
+      "industry": "水産卸",
+      "business_description": "地元魚の仲買人が起死回生を図る新プロジェクト（鮮魚加工・販売の高度化）。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "ジョイポート南淡路株式会社",
+      "city": "南あわじ市",
+      "industry": "観光業（遊覧船）",
+      "business_description": "特別な体験価値を生む高付加価値の遊覧船事業を創出。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "ダントーホールディングス株式会社",
+      "city": "南あわじ市",
+      "industry": "製造業（タイル等）",
+      "business_description": "高意匠タイルや100%植物由来成形材料の高級化粧品容器製造という新分野に挑戦。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "近畿測量株式会社",
+      "city": "南あわじ市",
+      "industry": "サービス業（土木測量）",
+      "business_description": "水中測量用マルチビームを導入し、業務を2次元から3次元へ転換。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "長尾屋",
+      "city": "南あわじ市",
+      "industry": "宿泊業",
+      "business_description": "旅館の好立地と設備を活かし、健康志向の日帰り水素風呂サービスを開始。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "民宿瀬登",
+      "city": "南あわじ市",
+      "industry": "宿泊業",
+      "business_description": "料理民宿の強みを活かし、貸別荘事業へ新分野展開。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "南あわじ山形農園有限会社",
+      "city": "南あわじ市",
+      "industry": "飲食業",
+      "business_description": "南あわじ産食材の地産地消を促進するうどん主体の飲食店運営計画。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "えのもと接骨院",
+      "city": "南あわじ市",
+      "industry": "ヘルスケア",
+      "business_description": "接骨院から非対面・24時間セルフエステ事業へ転換。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "株式会社日光總運",
+      "city": "南あわじ市",
+      "industry": "物流業",
+      "business_description": "※前出（日光總運）は第6回採択（第7回公募では対象外）。",
+      "application_category": "不明",
+      "notes": [
+        "既出案件"
+      ]
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "株式会社HANA",
+      "city": "南あわじ市",
+      "industry": "宿泊業",
+      "business_description": "※前出（HANA）は第6回採択。第7回には既出案件除くため対象外。",
+      "application_category": "不明",
+      "notes": [
+        "既出案件"
+      ]
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "有限会社片井オートサービス",
+      "city": "南あわじ市",
+      "industry": "宿泊業",
+      "business_description": "※前出（片井オートサービス）は第6回採択。",
+      "application_category": "不明",
+      "notes": [
+        "既出案件"
+      ]
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "樂久登窯カフェ",
+      "city": "南あわじ市",
+      "industry": "宿泊業",
+      "business_description": "※前出（樂久登窯の宿）は第6回採択。",
+      "application_category": "不明",
+      "notes": [
+        "既出案件"
+      ]
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "株式会社奥井印刷",
+      "city": "南あわじ市",
+      "industry": "製造業",
+      "business_description": "※前出（奥井印刷）は第6回採択。",
+      "application_category": "不明",
+      "notes": [
+        "既出案件"
+      ]
+    },
+    {
+      "round": 7,
+      "announcement_date": "2022年12月",
+      "company_name": "SHIKON",
+      "city": "南あわじ市",
+      "industry": "地域活性",
+      "business_description": "※前出（SHIKON）は第6回採択。",
+      "application_category": "不明",
+      "notes": [
+        "既出案件"
+      ]
+    },
+    {
+      "round": 8,
+      "announcement_date": "2023年9月",
+      "company_name": "坂田精肉店",
+      "city": "洲本市",
+      "industry": "食品製造・販売",
+      "business_description": "「淡路から飛び出せ！」を合言葉に、名店の味を簡単調理で再現できる加工肉商品の展開。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 8,
+      "announcement_date": "2023年9月",
+      "company_name": "橋詰建設株式会社",
+      "city": "洲本市",
+      "industry": "建設業",
+      "business_description": "淡路島初の野球教室とワーケーションルームを併設した複合施設を開設し、新事業を創出。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 8,
+      "announcement_date": "2023年9月",
+      "company_name": "ルートコンストラクション株式会社",
+      "city": "洲本市",
+      "industry": "建設業",
+      "business_description": "ICT施工の知識を活かした建設機械レンタル事業に進出。",
+      "application_category": "不明",
+      "notes": [
+        "DX・デジタル化"
+      ]
+    },
+    {
+      "round": 8,
+      "announcement_date": "2023年9月",
+      "company_name": "西久保設備",
+      "city": "南あわじ市",
+      "industry": "小売業",
+      "business_description": "「淡路島たまねぎ」を年間通じて購入できるEC販売サービスを開始。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 8,
+      "announcement_date": "2023年9月",
+      "company_name": "株式会社ツーワン",
+      "city": "淡路市",
+      "industry": "観光業",
+      "business_description": "親子で楽しめる体験型観光と食育プログラムを提供する新事業を展開。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 8,
+      "announcement_date": "2023年9月",
+      "company_name": "株式会社出雲建設",
+      "city": "淡路市",
+      "industry": "製造業",
+      "business_description": "粉塵の出ない鉄骨製造技術を確立し、半導体工場建設分野へ進出。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 8,
+      "announcement_date": "2023年9月",
+      "company_name": "株式会社平松組",
+      "city": "淡路市",
+      "industry": "建設・小売複合",
+      "business_description": "地域資源を生かした空間デザインと商品開発事業により、受け身型経営から脱却。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 9,
+      "announcement_date": "2023年12月",
+      "company_name": "株式会社三和製作所",
+      "city": "淡路市",
+      "industry": "製造業（機械部品）",
+      "business_description": "半導体製造装置向けのボールねじ関連部品の量産分野に進出。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 9,
+      "announcement_date": "2023年12月",
+      "company_name": "有限会社アワジスポーツ",
+      "city": "淡路市",
+      "industry": "小売業（衣料）",
+      "business_description": "「丈夫で上質な制服を！」を合言葉に、地元中学校の制服・体育着販売に新規参入。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 9,
+      "announcement_date": "2023年12月",
+      "company_name": "イクスグラフィック",
+      "city": "淡路市",
+      "industry": "飲食業",
+      "business_description": "デザイナー発案の「愛犬の魅力を引き出す映えステーキハウス」を開店。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 9,
+      "announcement_date": "2023年12月",
+      "company_name": "有限会社西山佃煮",
+      "city": "淡路市",
+      "industry": "食品製造",
+      "business_description": "高齢者のQOLを高める嚥下補助食品（やわらか食品）を開発。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 9,
+      "announcement_date": "2023年12月",
+      "company_name": "藤本水産株式会社",
+      "city": "淡路市",
+      "industry": "食品製造",
+      "business_description": "釜揚げシラスのチルド商品を開発し、新たなサプライチェーンを構築。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 9,
+      "announcement_date": "2023年12月",
+      "company_name": "はぎのカラースタジオ",
+      "city": "南あわじ市",
+      "industry": "サービス業（フラワー）",
+      "business_description": "植物の美しさと癒しを届けるプランツスタジオを開設。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 10,
+      "announcement_date": "2024年3月",
+      "company_name": "株式会社津村造園",
+      "city": "淡路市",
+      "industry": "農業/アロマ",
+      "business_description": "淡路島ブランドの島内循環型アロマオイル製造により新分野展開。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 10,
+      "announcement_date": "2024年3月",
+      "company_name": "沖物産株式会社",
+      "city": "淡路市",
+      "industry": "食品製造",
+      "business_description": "国産原料を用いた冷凍調理惣菜の商品開発と供給・物流体制を構築。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 10,
+      "announcement_date": "2024年3月",
+      "company_name": "有限会社杉本商店",
+      "city": "南あわじ市",
+      "industry": "リサイクル",
+      "business_description": "発電所から出る焼却灰を線香の原料に再資源化する事業を立ち上げ。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 11,
+      "announcement_date": "2024年6月",
+      "company_name": "横山工務店",
+      "city": "淡路市",
+      "industry": "建設業",
+      "business_description": "淡路島ブランドにこだわったジェラテリア併設カフェ事業を新分野展開。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 11,
+      "announcement_date": "2024年6月",
+      "company_name": "株式会社次世代共創企画",
+      "city": "淡路市",
+      "industry": "サービス業",
+      "business_description": "インバウンド向け交流・体験型観光プラットフォーム構築事業。",
+      "application_category": "不明",
+      "notes": [
+        "インバウンド対応"
+      ]
+    },
+    {
+      "round": 11,
+      "announcement_date": "2024年6月",
+      "company_name": "株式会社福岡造園緑化",
+      "city": "南あわじ市",
+      "industry": "農業/観光",
+      "business_description": "淡路島に“グリーン×体験”の総合観光施設を新設。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 11,
+      "announcement_date": "2024年6月",
+      "company_name": "株式会社共生舎",
+      "city": "洲本市",
+      "industry": "農業/食品",
+      "business_description": "島内トップの乳質を誇る生乳を活用し、国産チーズ製造に乗り出す。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 11,
+      "announcement_date": "2024年6月",
+      "company_name": "株式会社洲本整備機製作所",
+      "city": "洲本市",
+      "industry": "製造業",
+      "business_description": "建設機械業界向け蓄電池ケースの製品化による新事業を展開。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 12,
+      "announcement_date": "2024年11月",
+      "company_name": "株式会社エムテック",
+      "city": "淡路市",
+      "industry": "サービス業",
+      "business_description": "大型自走式木材破砕機を導入し、木材リサイクルのワンストップ事業を展開。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 12,
+      "announcement_date": "2024年11月",
+      "company_name": "有限会社とうげ",
+      "city": "淡路市",
+      "industry": "卸売業",
+      "business_description": "ふるさと納税返礼品の基準厳格化に備え、生産体制を強化する事業。",
+      "application_category": "不明",
+      "notes": []
+    },
+    {
+      "round": 12,
+      "announcement_date": "2024年11月",
+      "company_name": "有限会社住山商店",
+      "city": "洲本市",
+      "industry": "卸売業",
+      "business_description": "住宅設備機器の販売・施工業から転じ、カフェ事業に新規参入。",
+      "application_category": "不明",
+      "notes": []
+    }
+  ]
+}

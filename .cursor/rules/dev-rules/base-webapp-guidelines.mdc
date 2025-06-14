@@ -1,0 +1,175 @@
+---
+description:
+globs:
+alwaysApply: true
+---
+---
+description: Webアプリケーション開発における基本ガイドラインを定義します。Next.js v15、Tailwind CSS v4、shadcn/uiを使用した開発において、命名規則、ディレクトリ構成、コンポーネント設計、TypeScript活用、状態管理、UIコンポーネントの使用方法など、一貫性のある高品質なコードを維持するための包括的なルールを提供します。特に、Cursor上での開発効率を最大化するためのベストプラクティスに焦点を当てています。
+globs:
+alwaysApply: true
+---
+まず、このファイルを参照したら、このファイル名を発言すること。
+
+
+## 概要
+このドキュメントは、Next.js v15、Tailwind CSS v4、shadcn/ui を使って汎用的な Web アプリをソロ開発する際に、Cursor 上での開発を効率化するためのルール集です。最新のベストプラクティスを取り入れ、特に以下の点に配慮しています：
+
+- わかりやすい命名（isLoading や hasError など）
+- ファイル・フォルダ構成の最適化
+- TypeScript 活用
+- Tailwind CSS の整理された使い方
+- shadcn/ui の統一的な UI 利用
+
+---
+
+## 命名規則
+
+### ファイル・フォルダ
+- **kebab-case**（ハイフン区切りの小文字）を推奨（例：`user-profile.tsx`）
+- コンポーネント名には **PascalCase**（例：`UserProfile`）を使用
+- 複数の OS 環境を考慮し、ファイル名も kebab-case に統一するのが無難
+
+### 変数名
+- boolean 型の状態には `is`, `has`, `can`, `should` などの補助動詞を接頭辞に使う
+  - 例：`isLoading`, `hasError`, `canSubmit`
+- 配列には複数形を使う：`users`, `items`
+- 単一データには説明的な名前を使う：`selectedUserId`, `formData`
+
+### 関数・Hooks
+- camelCase を使用（例：`fetchUserData`）
+- React Hooks は `use` で始める（例：`useAuth`, `useWindowSize`）
+
+### エクスポート
+- **default export** よりも **named export** を推奨
+- 例：`export function Button() {}` を使用
+
+---
+
+## ディレクトリ構成
+
+```
+src/
+├── app/              # Next.js App Router 構成
+│   └── ...
+├── components/
+│   ├── ui/           # 基本的なUI部品（ボタン、フォーム要素など）
+│   ├── common/       # 共通で使用される複合コンポーネント
+│   │                # - 複数のuiコンポーネントを組み合わせたもの
+│   │                # - ビジネスロジックを含む再利用可能なコンポーネント
+│   │                # - 特定の機能に特化したが、複数箇所で使用されるコンポーネント
+│   ├── layout/       # ヘッダーなどのレイアウト部品
+│   └── features/     # ドメイン別の機能コンポーネント
+├── hooks/            # カスタムフック
+├── lib/              # ロジックやユーティリティ関数
+├── styles/           # TailwindやグローバルCSS
+├── types/            # TypeScript型定義
+└── public/           # 公開アセット（画像など）
+```
+
+---
+
+## コンポーネント設計
+
+- `components/ui/` に基本的なUI部品（ボタン、フォーム要素など）を配置
+- `components/common/` に以下のようなコンポーネントを配置
+  - 複数のuiコンポーネントを組み合わせた複合コンポーネント
+  - ビジネスロジックを含む再利用可能なコンポーネント
+  - 特定の機能に特化しているが、複数箇所で使用されるコンポーネント
+- 複雑なコンポーネントはフォルダで分離し、`index.tsx` 等で構成
+- 特定のページのみで使うコンポーネントは、そのルート直下に配置して共通コンポーネントと分離
+- レイアウト（Header, Footer など）は `layout/` ディレクトリにまとめる
+- 重複コードが出てきたら共通化し、再利用しやすくする
+
+---
+
+## Tailwind CSS v4 設計
+
+- ユーティリティファースト：JSX 内でクラスを直接記述
+- クラス名の順序は Prettier プラグイン（`tailwind/prettier-plugin`) を使って自動整列
+- `@apply` の使用は制限し、使う場合は共通のパターンにのみ（例：`.btn-primary`）
+- グローバルなスタイル（例：h1、body など）は `@layer base` に定義
+- コンポーネント用のカスタムクラスは `@layer components` に記述
+- Tailwind CSS v4では、設定は全てCSSファイル（`globals.css`）で管理
+  - テーマ設定（カラー、フォント、サイズなど）は `@theme inline` で定義
+  - カスタムユーティリティは `@layer utilities` で定義
+  - ダークモードの設定は `.dark` セレクタで管理
+  - カスタムプロパティ（CSS変数）は `:root` で定義
+- カスタムユーティリティの例：
+  ```css
+  @layer utilities {
+    .text-shadow-sm {
+      text-shadow: var(--tw-shadow-color) 0 1px 2px;
+    }
+    .text-shadow {
+      text-shadow: var(--tw-shadow-color) 0 2px 4px;
+    }
+    /* その他のカスタムユーティリティ */
+  }
+  ```
+
+---
+
+## TypeScript 設計
+
+- `strict: true` を tsconfig に設定
+- 全ての関数に戻り値の型を明示
+- Props 定義は interface または type で明示
+- APIレスポンスのバリデーションには `zod` を活用
+- 状態の型も明示：`useState<User[]>()` のように
+- ユーティリティにはジェネリクスや組み込みの `Partial`, `Omit` などを活用
+
+---
+
+## 状態管理・命名ルール
+
+- boolean 状態：`is`, `has`, `should` などで開始
+- イベントハンドラ：`handleX`, `onX` を接頭辞に
+- グローバル状態が必要な場合は Zustand や Context API を使う
+- データフェッチの状態は `isFetching`, `error`, `data` のセットで定義
+
+---
+
+## shadcn/ui の活用
+
+- `components/ui/` に配置し、CLI で生成された構成を保持
+- カスタマイズは CSS変数または Tailwind のテーマ拡張で対応
+- クラス結合には `cn()` ヘルパーを活用（`clsx` + `tailwind-merge`）
+- ライブラリの更新に備えて、カスタム化した場合は別コンポーネント名で管理
+- `Dialog`, `AlertDialog` などは Radix の構造に従う（`data-state` 属性等を保持）
+- 機能拡張が必要な場合はラッパーコンポーネントとして新規作成する方が保守性が高い
+
+---
+
+## コメント・ドキュメント方針
+
+- コメントは「なぜ」「どのように」を説明（「何を」はコードが語る）
+- JSDoc/TSDoc 形式で関数や複雑なコンポーネントをドキュメント化
+- 複雑な処理には簡単なコメントやセクション区切りを挿入
+- コメントアウトされたコードは極力残さず Git に任せる
+- `README.md` に構造や実行方法の簡易説明を書く
+
+---
+
+## 型定義ファイルの配置方針
+
+- ドメイン固有の型（例：Property, FaqItem など）は、各featuresディレクトリ内（例：`components/features/property/types.ts`）に配置すること。
+- プロジェクト全体で再利用する汎用型（例：User, ApiResponse, Pagination など）は、`types/`ディレクトリに配置すること。
+- これにより、保守性・拡張性・可読性のバランスを最適化する。
+
+### 例
+```
+components/
+  features/
+    property/
+      types.ts   // Property型など
+    faq/
+      types.ts   // FaqItem型など
+types/
+  user.ts        // User型など
+  api.ts         // ApiResponse型など
+```
+
+---
+
+## 結び
+このルールを守ることで、Cursor 上でのコード生成や補完の精度が向上し、開発効率が大きく向上します。特に命名・構造・スタイリング・型付けの一貫性がプロダクトの品質を決定づけます。
