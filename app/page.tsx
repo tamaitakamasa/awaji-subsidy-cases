@@ -206,6 +206,7 @@ export default function Home() {
                   <TableHead className="min-w-[50px]">公募回</TableHead>
                   <TableHead className="min-w-[150px]">企業名</TableHead>
                   <TableHead className="min-w-[80px]">所在市</TableHead>
+                  <TableHead className="min-w-[200px]">住所</TableHead>
                   <TableHead className="min-w-[120px]">業種</TableHead>
                   <TableHead className="min-w-[300px]">事業内容</TableHead>
                   <TableHead className="min-w-[100px]">申請区分</TableHead>
@@ -220,6 +221,7 @@ export default function Home() {
                     </TableCell>
                     <TableCell className="font-medium">{caseItem.company_name}</TableCell>
                     <TableCell>{caseItem.city}</TableCell>
+                    <TableCell className="text-xs">{caseItem.address}</TableCell>
                     <TableCell>{caseItem.industry}</TableCell>
                     <TableCell className="max-w-md">
                       <p className="line-clamp-2">{caseItem.business_description}</p>

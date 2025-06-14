@@ -7,6 +7,7 @@ export interface SubsidyCase {
   business_description: string
   application_category: string
   notes: string[]
+  address: string
 }
 
 export interface SubsidyData {
